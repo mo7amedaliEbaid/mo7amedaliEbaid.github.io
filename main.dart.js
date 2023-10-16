@@ -65293,7 +65293,7 @@ A.R0.prototype={
 $0(){A.eF("https://www.linkedin.com/in/mo7amedebaid/")},
 $S:0}
 A.R1.prototype={
-$0(){A.eF("https://youtube.com/@user-tb3pp4zo9o?si=qn_jL-HBDcVy4WG5")},
+$0(){A.eF("https://www.youtube.com/channel/UCcaLYqe9DJGdqexSQSIgs7w")},
 $S:0}
 A.R2.prototype={
 $0(){A.eF("https://github.com/mo7amedaliEbaid")},
